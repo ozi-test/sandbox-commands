@@ -1,0 +1,2 @@
+rule: full_name max_length=40
+rule: agree_terms must_be_checked

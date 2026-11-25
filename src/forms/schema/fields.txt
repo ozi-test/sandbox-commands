@@ -1,0 +1,3 @@
+field: full_name, type=text, required=true
+field: favorite_color, type=dropdown, required=false
+field: agree_terms, type=checkbox, required=true

@@ -1,0 +1,3 @@
+locale=en
+timezone=UTC
+retries=3

@@ -1,0 +1,4 @@
+page_size=A4
+orientation=portrait
+dpi=150
+embed_fonts=true
