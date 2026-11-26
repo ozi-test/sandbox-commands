@@ -1,1 +1,0 @@
-Synthetic green CI merge probe.
